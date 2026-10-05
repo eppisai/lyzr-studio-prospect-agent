@@ -12,23 +12,24 @@ Madison fixed three things at once:
 - **The buyer is narrow and regulated.** Banks and credit unions publish a lot: mergers, earnings, filings, job postings. That gives the researcher real evidence to work with.
 - **Qualification matters here.** Madison is new. Not every bank is a good prospect for it, so "is this bank worth an email?" has a real answer.
 
-## What Madison is, in the page's own words
+## What Madison is, from its own page
 
-All of this is from Lyzr's public Madison page, read on 4 and 5 October 2026.
+All of this is from Lyzr's public Madison page, read on 4 and 5 October 2026, put in my own words.
 
 - It is for banks and credit unions.
-- It holds a bank's compliance records as one connected model, from the regulation through the obligation, policy, procedure and control to the evidence. The analyst quoted this sentence in the final runs: "Madison holds your obligations, policies, controls and evidence as one connected model, then runs agents on it beside your compliance team."
-- "Agents propose. Your people decide."
-- It "never writes back to your core".
-- It "does not determine compliance". The sentence the analyst quoted as the limit: "It does not determine compliance, and it does not certify, guarantee or ensure it."
+- It holds a bank's compliance records as one connected model, from the regulation through the obligation, policy, procedure and control to the evidence, and runs agents on that model beside the compliance team.
+- Its rule for the agents is short: "Agents propose. Your people decide."
+- It never writes back to the bank's core system.
+- It does not decide whether the bank is compliant, and it does not certify or guarantee compliance.
+
+In the final runs the analyst quoted the page's own sentence for the capability and for the limit. Those quotes are in the [run records](../tests/transcripts).
 
 ## Who it is for right now
 
-Two lines on the page shaped the whole design.
+Two facts on the page shaped the whole design.
 
-> "Between three and ten institutions join as charter members. Three months of build and specification work alongside your compliance team, then Madison free for the first year."
-
-> "If your institution is approaching $10B in assets, CFPB supervision and the Durbin interchange cap change your exam posture."
+- Madison is taking on a small first group: between three and ten charter institutions, who spend about three months specifying and building it with Lyzr's team and then get the first year free.
+- The page speaks directly to institutions approaching $10 billion in assets, where supervision and exam expectations change.
 
 So Madison is looking for a few banks to build with, and it speaks directly to banks near a regulatory size threshold. From that I wrote the campaign's definition of fit, which lives in the [campaign notes](../knowledge-base/MADISON-CAMPAIGN-NOTES.txt):
 
