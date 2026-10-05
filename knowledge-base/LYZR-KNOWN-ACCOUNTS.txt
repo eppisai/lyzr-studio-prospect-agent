@@ -1,0 +1,29 @@
+ACCOUNTS LYZR ALREADY WORKS WITH
+
+Checked against Lyzr's public pages and one press release on 4 October 2026. An account listed here goes to its account owner for relationship verification before outreach. This public list is not a CRM record. Being listed does not mean the account uses Madison.
+
+BMO (Bank of Montreal, BMO Financial Group)
+Public reference; relationship unverified. Lyzr's revenue and sales page mentions a marketing organization of more than 500 people at BMO scaling governed agent adoption. The page does not explicitly confirm a customer contract, an account owner or a Madison deployment. Check the CRM/account owner before treating BMO as an existing customer or contacting it.
+Source: https://www.lyzr.ai/teams/revenue-and-sales-team/
+
+WTW (Willis Towers Watson)
+Existing Lyzr account. WTW announced a partnership with Lyzr on 10 September 2026. The release says WTW and Lyzr already have agents live in production together.
+Source: https://www.globenewswire.com/news-release/2026/09/10/3359460/0/en/wtw-and-lyzr-partner-to-help-organizations-accelerate-workforce-transformation-through-agentic-ai.html
+
+Accenture
+Existing Lyzr account. Lyzr publishes a partnership page for Lyzr and Accenture.
+Source: https://www.lyzr.ai/lyzr-and-accenture/
+
+Integrity
+Existing Lyzr account. Lyzr's page for revenue and sales teams describes sales agents live at Integrity, deployed across its financial-advisor network.
+Source: https://www.lyzr.ai/teams/revenue-and-sales-team/
+
+Okta
+Existing Lyzr account. Lyzr's page for revenue and sales teams describes sales agents live at Okta.
+Source: https://www.lyzr.ai/teams/revenue-and-sales-team/
+
+Alera Group
+Existing Lyzr account. Lyzr's page for revenue and sales teams describes agents live at Alera Group for health-insurance sales lead qualification.
+Source: https://www.lyzr.ai/teams/revenue-and-sales-team/
+
+An account with no entry here has an unknown relationship. It is not confirmed as a new customer.
