@@ -93,4 +93,4 @@ Names of individuals, and links to personal profiles and people directories, are
 
 ## Earlier rounds
 
-About thirty runs are on record from 3 to 5 October, across six versions of the prompts. The run-by-run tables, with what each failure taught me, are in the [timeline](../TIMELINE.md). The changes they led to are in the [prompt change log](../prompts/CHANGELOG.md).
+Thirty-one runs are on record from 3 to 5 October, across six versions of the prompts. [Every run is listed in one page](ALL-RUNS.md), with its result and what it showed. The story around them is in the [timeline](../TIMELINE.md). The changes they led to are in the [prompt change log](../prompts/CHANGELOG.md).

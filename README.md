@@ -122,7 +122,7 @@ In the two full final runs, each of the eight places where a packet had to be pa
 - **What is saved in Studio matches the file.** After every paste, each saved Role, Goal, Instructions and Managerial Context field was read back and compared with the prompt file.
 - **The knowledge base was checked on its own.** A search for "BMO" had to return the BMO entry first, and "core fit" had to return the who-fits-best section first, before the knowledge base was attached to the analyst.
 - **Each run was a fresh chat.** The full activity was captured while the run was open, because Studio's Activity panel is empty when a chat is reopened. Traces do persist.
-- **About thirty runs are on record,** across six versions of the prompts. Many of the early ones failed, and each failure changed something.
+- **Thirty-one runs are on record,** across six versions of the prompts. Twelve did not pass, all before the final version. [Every run is listed here](tests/ALL-RUNS.md).
 - **Reviewers with no context looked for faults.** Twice I gave an AI reviewer only the assignment and the work, once the prompts and knowledge base and once the whole build, and asked what was wrong with it.
 
 The test record is in [tests/README.md](tests/README.md).
